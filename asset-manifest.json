@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/udhav/static/css/main.37235f17.css",
+    "main.js": "/udhav/static/js/main.b83123ff.js",
+    "static/media/Untitled design.svg": "/udhav/static/media/Untitled design.c9ddd3c3b0bca864f1a22854e5fe1b1c.svg",
+    "static/media/EISNEWS.png": "/udhav/static/media/EISNEWS.b10efd9c212b150df4af.png",
+    "static/media/GOOGLE.png": "/udhav/static/media/GOOGLE.09dc9ea2a67875f78a86.png",
+    "static/media/avatar.svg": "/udhav/static/media/avatar.773bc19f61516a97392a433b2cbe68d6.svg",
+    "static/media/site-bg.jpg": "/udhav/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/UdhavContact.png": "/udhav/static/media/UdhavContact.698b269c01d4f96e32df.png",
+    "static/media/avatar.png": "/udhav/static/media/avatar.a381c7e0fcacf708e935.png",
+    "static/media/about.jpg": "/udhav/static/media/about.f6ec8050f4f9d7b029fe.jpg",
+    "static/media/UdhavResume.pdf": "/udhav/static/media/UdhavResume.fd3f6ca2352111b7295b.pdf",
+    "static/media/logo.svg": "/udhav/static/media/logo.1f9c5b1a9886ffbd629c75f5f09dce37.svg",
+    "index.html": "/udhav/index.html",
+    "main.37235f17.css.map": "/udhav/static/css/main.37235f17.css.map",
+    "main.b83123ff.js.map": "/udhav/static/js/main.b83123ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37235f17.css",
+    "static/js/main.b83123ff.js"
+  ]
+}
