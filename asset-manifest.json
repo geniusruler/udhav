@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/udhav/static/css/main.5167e2b5.css",
-    "main.js": "/udhav/static/js/main.f64ce083.js",
+    "main.js": "/udhav/static/js/main.a131463e.js",
     "static/js/488.21a3b654.chunk.js": "/udhav/static/js/488.21a3b654.chunk.js",
     "static/media/imagesu.png": "/udhav/static/media/imagesu.c205351304d74d498094.png",
     "static/media/astronaut.png": "/udhav/static/media/astronaut.5a1b255ecb06737a8f05.png",
@@ -9,11 +9,11 @@
     "static/media/Udhav Resume .pdf": "/udhav/static/media/Udhav Resume .189d04a9e26f98c43fb2.pdf",
     "index.html": "/udhav/index.html",
     "main.5167e2b5.css.map": "/udhav/static/css/main.5167e2b5.css.map",
-    "main.f64ce083.js.map": "/udhav/static/js/main.f64ce083.js.map",
+    "main.a131463e.js.map": "/udhav/static/js/main.a131463e.js.map",
     "488.21a3b654.chunk.js.map": "/udhav/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5167e2b5.css",
-    "static/js/main.f64ce083.js"
+    "static/js/main.a131463e.js"
   ]
 }
