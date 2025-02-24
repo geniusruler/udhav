@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fde30f78.css",
-    "main.js": "/static/js/main.78ce00f4.js",
+    "main.css": "/static/css/main.37ea5da0.css",
+    "main.js": "/static/js/main.b1ba69f5.js",
     "static/js/488.21a3b654.chunk.js": "/static/js/488.21a3b654.chunk.js",
     "static/media/imagesu.png": "/static/media/imagesu.c205351304d74d498094.png",
     "static/media/astronaut.png": "/static/media/astronaut.5a1b255ecb06737a8f05.png",
     "static/media/image.png": "/static/media/image.bb88a2c5ddb8c971bb60.png",
     "static/media/Udhav Resume .pdf": "/static/media/Udhav Resume .189d04a9e26f98c43fb2.pdf",
     "index.html": "/index.html",
-    "main.fde30f78.css.map": "/static/css/main.fde30f78.css.map",
-    "main.78ce00f4.js.map": "/static/js/main.78ce00f4.js.map",
+    "main.37ea5da0.css.map": "/static/css/main.37ea5da0.css.map",
+    "main.b1ba69f5.js.map": "/static/js/main.b1ba69f5.js.map",
     "488.21a3b654.chunk.js.map": "/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fde30f78.css",
-    "static/js/main.78ce00f4.js"
+    "static/css/main.37ea5da0.css",
+    "static/js/main.b1ba69f5.js"
   ]
 }
